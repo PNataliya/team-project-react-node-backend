@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pidvysotskyi/Team5-project-Pets-support-back.git"
+    "url": "git+https://github.com/PNataliya/team-project-react-node-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pidvysotskyi/Team5-project-Pets-support-back/issues"
+    "url": "https://github.com/PNataliya/team-project-react-node-backend/issues"
   },
-  "homepage": "https://github.com/Pidvysotskyi/Team5-project-Pets-support-back#readme",
+  "homepage": "https://github.com/PNataliya/team-project-react-node-backend#readme",
   "devDependencies": {
     "eslint": "^8.33.0",
     "nodemon": "^2.0.20"
